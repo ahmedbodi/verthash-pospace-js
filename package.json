@@ -1,0 +1,16 @@
+{
+    "name": "verthash-pospace",
+    "version": "0.0.1",
+    "main": "verthash-pospace",
+    "author": {
+        "name": "Ahmed Bodiwala",
+        "email": "ahmedbodi@crypto-expert.com"
+    },
+    "dependencies": {
+        "bindings": "^1.5.0",
+        "nan": "^2.14.1"
+    },
+    "scripts": {
+        "build": "node-gyp rebuild"
+    }
+}

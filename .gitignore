@@ -1,0 +1,4 @@
+*.exe
+*.dat
+node_modules/
+build/
